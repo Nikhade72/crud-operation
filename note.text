@@ -1,0 +1,20 @@
+Local Host Port
+
+Get: 
+
+http://localhost:3000/hospitals [Note: Select Get in postman]
+
+post: 
+
+http://localhost:3000/hospitals [Note:  Select Post in postman and select body in that row and json and then  add your data  in json format ]
+
+Put: 
+
+http://localhost:3000/hospitals/:index [Note: Select Put in postman ]
+
+Delete:
+
+http://localhost:3000/hospitals/:index [Note: Select Delete in postman, Index should be Not 0]
+
+
+
