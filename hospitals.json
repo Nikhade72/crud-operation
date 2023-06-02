@@ -1,0 +1,37 @@
+[
+  {
+    "Name of the hospital": "Victoria hospital",
+    "Patient Count": 400,
+    "Hospital location": "Delhi"
+  },
+  {
+    "Name of the hospital": "Narayana Health Hospital",
+    "Patient Count": 700,
+    "Hospital location": "Chennai"
+  },
+  {
+    "Name of the hospital": "Colambia Asia",
+    "Patient Count": 900,
+    "Hospital location": "Delhi"
+  },
+  {
+    "Name of the hospital": "Lilawati Hospital",
+    "Patient Count": 650,
+    "Hospital location": "Mumbai"
+  },
+  {
+    "Name of the hospital": "VS Hospital",
+    "Patient Count": 650,
+    "Hospital location": "Nagpur"
+  },
+  {
+    "Name of the hospital": "Fortis Hospital Group",
+    "Patient Count": 450,
+    "Hospital location": "NCR"
+  },
+  {
+    "Name of the hospital": "Cloudline Hospital",
+    "Patient Count": 450,
+    "Hospital location": "Kochi"
+  }
+]
